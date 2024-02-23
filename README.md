@@ -1,3 +1,21 @@
+# Welcome to my personal responsive portfolio project built using React.
+
+# Sections added are:
+1. About Section
+2. Qualification
+3. Skills
+4. Experience
+5. Contact information
+
+## Technologies Used
+- React
+- HTML/CSS
+- JavaScript
+
+## Usage
+To use this project, simply clone the repository and run `npm install` to install dependencies. After that, you can start the development server using `npm start`.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
