@@ -1,5 +1,8 @@
 # Welcome to my personal responsive portfolio project built using React.
 
+# Deployed here:
+https://portfolio4swati.netlify.app/
+
 # Sections added are:
 1. About Section
 2. Qualification
