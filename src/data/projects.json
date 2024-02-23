@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Speech To Sign",
+    "date": "Jab 2023 - March 2023",
+    "imageSrc": "projects/SpeechToSign.png",
+    "description": "Built an automatic speech recognition model to convert speech to text and further to Indian Sign Language. Achieved an accuracy of 73% for the model and integrated the model with frontend.",
+    "skills": ["Neural Networks", "Python", "NLP"],
+    "category": "ml",
+    "demo": "https://github.com/swati57/Speech-to-Sign",
+    "source": "https://github.com/swati57/Speech-to-Sign"
+  },
+  {
+    "title": "Siksha Mitra",
+    "date": "Apr 2022 - May 2022",
+    "imageSrc": "projects/ShikshaMitra.png",
+    "description": "A study tool for students to detect drowsiness of a person while studying using face recognition. The systems alarms the user(if drowsy), suggest tips to get rid of drowsiness and shows motivational quotes to keep him boosted.",
+    "skills": ["Flask", "Python", "RestAPI"],
+    "category": "web",
+    "demo": "https://drive.google.com/file/d/1muxQ9VnFzNCpRj0RsWFQLNxT0EKnrLAP/view?usp=sharing",
+    "source": "https://github.com/swati57/Siksha-Mitra---Droswiness-Detection-System/tree/master"
+  },
+  {
+    "title": "Audio Sentiment Analysis",
+    "date": "July 2023 - Sept 2023",
+    "imageSrc": "projects/audioSentiment.png",
+    "description": "Achieved an accuracy of 73% in performing sentiment analysis on basis of audio clips using machine learning algorithms specifically CNN, LSTM and SVM and compared accuracies of results obtained using all three models",
+    "skills": ["Flask", "Python", "RestAPI"],
+    "category": "ml",
+    "demo": "https://github.com/swati57/Audio-Sentiment-Analysis",
+    "source": "https://github.com/swati57/Audio-Sentiment-Analysis"
+  },
+  {
+    "title": "Number Trivia",
+    "date": "Sept 2021 - Oct 2021",
+    "imageSrc": "projects/numberTrivia.png",
+    "description": "The NUMBER TRIVIA is a flutter app in which user enters a number and some interesting facts about that number is displayed",
+    "skills": ["Flutter"],
+    "category": "android",
+    "demo": "https://github.com/swati57/IRIS-Flutter-Bootcamp-2022/tree/master/assignments/assignment2_number_trivia/number_trivia",
+    "source": "https://github.com/swati57/IRIS-Flutter-Bootcamp-2022/tree/master/assignments/assignment2_number_trivia/number_trivia"
+  },
+  {
+    "title": "ToDo App",
+    "date": "Oct 2021 - Nov 2021",
+    "imageSrc": "projects/todoApp.png",
+    "description": "An android app to schedule and manage tasks using the concept of local storage using hive. A count-down timer is added for each task showing the time left and a local notification is given 24 hours prior to the scheduled time of the task.",
+    "skills": ["Flutter","Hive"],
+    "category": "android",
+    "demo": "https://github.com/swati57/IRIS-Flutter-Bootcamp-2022/tree/master/assignments/assignment3_todo_app/to_do_app",
+    "source": "https://github.com/swati57/IRIS-Flutter-Bootcamp-2022/tree/master/assignments/assignment3_todo_app/to_do_app"
+  }
+
+]

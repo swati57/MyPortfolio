@@ -1,0 +1,92 @@
+[
+  {
+    "area": "Frontend",
+    "skills": [
+      {
+        "title": "React",
+        "imageSrc": "skills/react.png"
+      },
+      {
+        "title": "Node",
+        "imageSrc": "skills/node.png"
+      },
+      {
+        "title": "HTML",
+        "imageSrc": "skills/html.png"
+      },
+      {
+        "title": "CSS",
+        "imageSrc": "skills/css.png"
+      },
+      {
+        "title": "Bootstrap",
+        "imageSrc": "skills/bootstrap.png"
+      }
+      
+    ]
+  },
+  {
+    "area": "Languages",
+    "skills": [
+      {
+        "title": "Java",
+        "imageSrc": "skills/java.png"
+      },
+      {
+        "title": "Python",
+        "imageSrc": "skills/python.png"
+      },
+      {
+        "title": "C++",
+        "imageSrc": "skills/c++.png"
+      }
+      
+    ]
+  },
+  {
+    "area": "Core Subjects",
+    "skills": [
+      {
+        "title": "DSA",
+        "imageSrc": "skills/dsa.png"
+      },
+      {
+        "title": "DBMS",
+        "imageSrc": "skills/sql.png"
+      },
+      {
+        "title": "OOPS",
+        "imageSrc": "skills/oops.png"
+      },
+      {
+        "title": "OS",
+        "imageSrc": "skills/os.png"
+      },
+      {
+        "title": "Networks",
+        "imageSrc": "skills/networks.png"
+      }
+    ]
+  },
+  {
+    "area": "Others",
+    "skills": [
+      {
+        "title": "Azure",
+        "imageSrc": "skills/azure.png"
+      },
+      {
+        "title": "Flutter",
+        "imageSrc": "skills/flutter.png"
+      },
+      {
+        "title": "Neural Networks",
+        "imageSrc": "skills/neural.png"
+      },
+      {
+        "title": "Ruby On Rails",
+        "imageSrc": "skills/ruby.png"
+      }
+    ]
+  }
+]

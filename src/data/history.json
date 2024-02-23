@@ -1,0 +1,20 @@
+[
+  {
+    "course": "Master of Computer Applications",
+    "organisation": "National Institute of Technology Karnataka, Surathkal",
+    "startDate": "July, 2021",
+    "endDate": "Aug, 2024",
+    "cgpa": 9.25,
+    "achievements": ["Worked as Placement Co-ordinator ensuring placement and internship of 2000 students","Mentor and Algorist Head in Mind Fuel Club"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "course": "Bachlors in Computer Science(Hons)",
+    "organisation": "University of Calcutta",
+    "startDate": "June, 2017",
+    "endDate": "Dec, 2020",
+    "cgpa": 8.5,
+    "achievements": ["Student Representative of the College"],
+    "imageSrc": "history/microsoft.png"
+  }
+]

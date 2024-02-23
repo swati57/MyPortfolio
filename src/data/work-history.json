@@ -1,0 +1,20 @@
+[
+  {
+    "role": "Software Engineer Intern",
+    "company": "Microsoft",
+    "startDate": "May, 2023",
+    "endDate": "July, 2023",
+    "experiences": ["Worked on Integrating Trade Screening Service with MSA API", "Reduced end to end latency from 10 API to 3 API calls for retries","Overall reduced E2E cycle execution time by 3 seconds"],
+    "imageSrc": "history/microsoft.png",
+    "skills": ["Azure","dotnet","c#"]
+  },
+  {
+    "role": "Subject Matter Expert",
+    "company": "Chegg India",
+    "startDate": "Aug, 2022",
+    "endDate": "Dec, 2022",
+    "experiences": ["Helped 100+ students solve their coding related doubts"],
+    "imageSrc": "history/chegg.png",
+    "skills": ["public speaking","teaching"]
+  }
+]

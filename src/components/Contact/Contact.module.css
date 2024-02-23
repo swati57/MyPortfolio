@@ -1,0 +1,82 @@
+@import "../../vars.css";
+
+.container {
+    color: var(--color-text);
+    margin-top: 120px;
+    background-color: var(--color-dark);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.text{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.text h2{
+    align-items: center;
+    color: var(--color-text);
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+    margin-top: 10px;
+    
+  }
+
+.text p {
+    font-size: 25px;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+
+.links {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    list-style: none;
+    gap: 26px;
+}
+
+.link {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.link a {
+    color: var(--color-text);
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 1.5px;
+}
+
+.footerBottom {
+    font-size: 18px;
+    background-color: var(--color-bg);
+    
+}
+
+.footerBottom p {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding:15px;
+    background-color: rgba(3, 1, 18, 0.471);
+}
+
+@media screen and (max-width: 830px) {
+    .container {
+        flex-direction: column;
+        gap: 23px;
+    }
+    .text {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .links {
+        align-items: center;
+    }
+}
